@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=esclola
+%uri=https://github.com/fernandojsmelo/sqitch_aula1.git
+
+schema_escola 2016-02-23T14:45:34Z fernando melo <fernandojsmelo@gmail.com> # Add schema for escola
